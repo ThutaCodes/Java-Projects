@@ -1,0 +1,13 @@
+Foundation, 15.99
+Mascara, 12.50
+Suncream, 20.99
+Eyeliner, 8.75
+Blush, 10.25
+Eyeshadow Palette, 25.99
+Highlighter, 18.50
+Bronzer, 14.75
+Concealer, 17.25
+Lip gloss, 11.99
+BB cream, 10.99
+Toner, 13.79
+Essence, 23.79
