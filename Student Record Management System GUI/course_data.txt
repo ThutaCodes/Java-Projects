@@ -1,0 +1,4 @@
+Code: 1102, Name: Programming 1, Capacity: 2, Credit Value: 3
+Code: 1101, Name: Programming Fundamentals, Capacity: 2, Credit Value: 3
+Code: 1103, Name: Programming 3, Capacity: 2, Credit Value: 3
+Code: 1104, Name: Programming 3, Capacity: 2, Credit Value: 3
