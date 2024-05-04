@@ -1,0 +1,17 @@
+Thuta Tun,18,IT,89000.0
+Eaint Hmue,18,Marketing,100000.0
+Eaint Hmue Thin Zar Kyaw,19,Marketing,120000.0
+Hmue Hmue,21,Finance,145000.0
+Moo Moo,33,IT,130000.0
+Hnin Oo Lwin,24,Operations Management,240000.0
+Kyawt K Khaing,38,Human Resources,450000.0
+Eaint Hmue Thinzar,22,IT,230000.0
+Thuta,21,IT,450000.0
+Ohnmar Than,48,Operations Management,750000.0
+Mhe Mhe,33,Finance,345000.0
+Daw Tin Myaing,68,Human Resources,450000.0
+Su Lei,29,Marketing,349000.0
+Su Lei San,27,Operations Management,657000.0
+Su Pyae Pyae Aung,34,Operations Management,900000.0
+Su Lei Phyu,45,Finance,890000.0
+John,32,Marketing,567000.0
