@@ -13,9 +13,7 @@ The Main class serves as the entry point for the e-commerce application. It orch
 
 - **Package**: The **Main** class is defined within the **com.ecommerce** package. This package likely contains other classes related to the e-commerce functionality of the application, such as **Product**, **Customer**, and **Order**.
 - **Imports**: The **Main** class imports classes and packages necessary for its functionality. These imports include:
-
-3
-
+  
 - - **com.ecommerce.orders.Order**: Imports the **Order** class from the **com.ecommerce.orders** package. This import is used to create order objects.
     - **java.io.BufferedReader**, **java.io.FileReader**, **java.io.IOException**: Imports classes from the **java.io** package for reading products from a text file.
     - **java.util.ArrayList**, **java.util.List**: Imports classes from the **java.util** package for managing collections such as lists.
